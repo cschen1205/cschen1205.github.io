@@ -5,7 +5,7 @@ baseurl: '' #change it according to your repository name
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
-#style: styles-2
+style: styles-2
 #style: styles-3
 #style: styles-4
 #style: styles-5
@@ -21,7 +21,7 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 email: cschen1205@gmail.com
 phone: NA
 website: cschen1205.github.io
-#linkedin: cschen1205
+linkedin: 财顺-陈-341ab9160
 github: cschen1205
 twitter: '@cschen1205'
 
